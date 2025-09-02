@@ -8,11 +8,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 
-  <!-- Herramientas de ciberseguridad (sin Devicon oficial, usamos URLs de íconos externos) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" height="40" alt="Wireshark" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap" />
-  <img src="https://avatars.githubusercontent.com/u/1683328?s=280&v=4" height="40" alt="Metasploit" />
-  <img src="https://avatars.githubusercontent.com/u/71294794?s=200&v=4" height="40" alt="Hydra" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Johntheripper.png" height="40" alt="John the Ripper" />
-  <img src="https://portswigger.net/cms/images/og-image-2x.png" height="40" alt="Burp Suite" />
+  <!-- Herramientas de ciberseguridad -->
+  <img src="https://raw.githubusercontent.com/joshhighet/logos/main/tools/wireshark.svg" height="40" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/TechXero/logos/main/metasploit.png" height="40" alt="Metasploit" />
+  <img src="https://raw.githubusercontent.com/AhmedRashad01/Password-Crackers-Icons/main/hydra.png" height="40" alt="Hydra" />
+  <img src="https://raw.githubusercontent.com/AhmedRashad01/Password-Crackers-Icons/main/johntheripper.png" height="40" alt="John the Ripper" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" height="40" alt="Burp Suite" />
 </p>
