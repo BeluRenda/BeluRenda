@@ -1,6 +1,6 @@
-- 👋 Hey, I’m @BeluRenda
-- 👀 I’m interested in Cybersecurity.
-- 🔭 Working on multiple projects.
+-  Hey, I’m @BeluRenda
+-  I’m interested in Cybersecurity.
+-  Working on multiple projects.
 
 <p align="left">
   <!-- Lenguajes de programación -->
